@@ -1,10 +1,10 @@
 "use client";
 
 import { AnimatedTooltip } from "./ui/animated.tooltip";
-import zainimage from"@/components/Images/zainimage.jpg"
-import asifimage from "@/components/Images/asifimage.jpg"
-import broimage from "@/components/Images/broimage.png"
-import logoImage from "@/components/Images/gif.jpg"
+import zainimage from"@/components/images/zainimage.jpg"
+import asifimage from "@/components/images/asifimage.jpg"
+import broimage from "@/components/images/broimage.png"
+import logoImage from "@/components/images/gif.jpg"
 
 const Instructors = [
   {
