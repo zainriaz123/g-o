@@ -32,7 +32,7 @@ const FeaturedCourses = () => {
 <div className='p-4 sm:p-6 flex flex-col items-center text-center flex-grow'>
 <p className=' text-lg sm:text-xl mt-4 mb-2 text-neutral-200 '> { course.title}</p>{""}
 <p className='text-sm  text-neutral-400 flex-grow  '> { course.description } </p> {""}
-<Link href={ ` /courses/${course.slug}`}> 
+<Link href={ ` courses${course.slug}`}> 
 <span className=' text-teal-400  hover:underline'> learn more </span>
 </Link></div>
 </BackgroundGradient>
